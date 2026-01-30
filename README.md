@@ -1,7 +1,10 @@
 # WAMessagePlatformIdentifier
 
-A script that identifies and displays the platform (e.g., iPhone, Android, Web, etc...) from which a WhatsApp message was sent directly within the chat interface.
+A script that identifies and displays the platform (e.g., iPhone, Android, Web, etc...) from which a WhatsApp message was sent directly within the chat interface. 
 
+<img width="449" height="271" alt="image" src="https://github.com/user-attachments/assets/3183e343-8f5a-4a5b-895b-d077055c1acc" />
+
+  
 > [!NOTE]
 > This script adds visual labels to messages indicating the sender's platform (like iPhone, Android, etc...). It works by intercepting internal WhatsApp Web functions to determine the platform associated with each message's unique ID .
 
